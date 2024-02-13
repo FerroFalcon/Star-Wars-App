@@ -13,7 +13,7 @@ git clone https://github.com/FerroFalcon/Star-Wars-App.git
 Navigate to the project directory:
 
 ```bash
-cd star-wars-app
+cd starwars
 ```
 
 Install dependencies:
@@ -27,7 +27,7 @@ npm install
 Start the development server:
 
 ```python
-npm start
+npm run dev
 ```
 
 Open your browser and navigate to http://localhost:5173 to view the application.
@@ -52,6 +52,6 @@ Open your browser and navigate to http://localhost:5173 to view the application.
 
 The project has been uploaded to GitHub: [GitHub Repository](https://github.com/FerroFalcon/Star-Wars-App)
 
-The deployed application can be accessed on Vercel: [Deployed App](https://star-wars-ferro.vercel.app/)
+The deployed application can be accessed on Vercel: [Deployed App](https://star-wars-app-rust.vercel.app/)
 
 Please reach out if there are any questions or concerns regarding the project. Thank you for the opportunity!
