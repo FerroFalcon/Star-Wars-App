@@ -32,9 +32,9 @@ const DataTable = () => {
           <TableRow>
             <TableCell>Name</TableCell>
             <TableCell align="right">Species</TableCell>
-            <TableCell align="right">Gender&nbsp;(g)</TableCell>
-            <TableCell align="right">Height&nbsp;(g)</TableCell>
-            <TableCell align="right">Mass&nbsp;(g)</TableCell>
+            <TableCell align="right">Gender</TableCell>
+            <TableCell align="right">Height&nbsp;(cm)</TableCell>
+            <TableCell align="right">Mass&nbsp;(kg)</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
